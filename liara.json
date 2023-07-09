@@ -1,0 +1,8 @@
+{
+  "django": {
+    "pythonVersion": "3.10",
+    "collectStatic": true,
+    "compileMessages": true
+  }
+}
+
